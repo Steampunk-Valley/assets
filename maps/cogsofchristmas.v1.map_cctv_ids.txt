@@ -1,5 +1,0 @@
-ID: RAILPOST2 - Location: (1262.89, 28.22, -477.70)
-ID: RAILPOST3 - Location: (1233.92, 28.17, -499.03)
-ID: RAILPOST4 - Location: (1258.91, 19.98, -482.49)
-ID: RAILPOST5 - Location: (1247.66, 15.24, -472.51)
-ID: RAILPOST6 - Location: (1234.12, 32.97, -498.65)
